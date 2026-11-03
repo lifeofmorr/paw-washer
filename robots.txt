@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paw-washer.lifeofmorr.com/sitemap.xml
